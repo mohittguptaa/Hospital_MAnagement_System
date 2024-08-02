@@ -16,7 +16,7 @@ const Hero = ({ title, imageUrl }) => {
           </p>
         </div>
         <div className="banner">
-          <img src="../../public/hospital-104.svg" alt="logo" className="" />
+          <img src="https://icons.veryicon.com/png/o/miscellaneous/basic-icon-multicolor/hospital-104.png" alt="logo" className="" />
           <span>
             <img src="/Vector.png" alt="vector" />
           </span>
