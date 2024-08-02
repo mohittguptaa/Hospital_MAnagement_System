@@ -29,7 +29,7 @@ const Navbar = () => {
     navigateTo("/login");
   };
   const goToAdmin = () => {
-    navigateTo("http://localhost:5174/login");
+    navigateTo("https://hmsdashboard.vercel.app");
   };
 
   return (
