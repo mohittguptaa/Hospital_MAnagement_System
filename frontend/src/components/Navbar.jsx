@@ -59,7 +59,7 @@ const Navbar = () => {
             <button className="loginBtn btn" onClick={goToLogin}>
               LOGIN
             </button>
-            <Link to="http://localhost:5174/login">
+            <Link to="https://hmsdashboard.vercel.app">
             <button className="loginBtn btn" onClick={goToAdmin}>
               LOGIN AS ADMIN
             </button>
