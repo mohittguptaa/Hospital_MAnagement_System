@@ -76,7 +76,7 @@ const Footer = () => {
             </div>
             <div>
               <FaLocationArrow />
-              <span>Karachi, Pakistan</span>
+              <span>Delhi , Indin</span>
             </div>
           </div>
         </div>
